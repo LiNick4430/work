@@ -1,3 +1,1 @@
-# pygame
-
-一些利用pygame，寫成的小遊戲
+一些用python，寫的小程式
